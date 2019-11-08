@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\test",
+    "\\Lib",
+    "\\Lib\\SeleniumJars",
+    "\\src",
+    "\\src\\test"
+  ],
+  "SelectedNode": "\\src\\test\\FirstSeleniumTest.java",
+  "PreviewInSolutionExplorer": false
+}
