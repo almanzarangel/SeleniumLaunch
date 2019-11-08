@@ -10,7 +10,7 @@ public class FirstSeleniumTest {
 		
 		String projectLocation = System.getProperty("user.dir"); //this method will help getting the project location
 			
-		System.setProperty("webdriver.chrome.driver", projectLocation+ "\\Lib\\chromedriver\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", projectLocation+ "\\Lib\\chromedriver\\chromedriver.exe"); //Here i set the property to chrome web driver and specify where is located the chromedriver
 	
 		
 		WebDriver driver=new ChromeDriver();
